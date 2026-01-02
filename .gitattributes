@@ -1,0 +1,9 @@
+# ClickOnce – nie dotykaj końców linii / traktuj jak binarne
+*.application binary
+*.manifest binary
+*.deploy binary
+*.config.deploy binary
+
+# Dla pewności też typowe binaria
+*.exe binary
+*.dll binary
